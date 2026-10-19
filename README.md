@@ -1,15 +1,15 @@
 
-<h2>Skills</h2>
 
-<div align="left">
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" height="40" alt="Microsoft Office" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Excel" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI" />
 </div>
+
 
 
 <br clear="both">
